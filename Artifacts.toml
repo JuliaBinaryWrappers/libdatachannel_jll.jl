@@ -1,0 +1,288 @@
+[[libdatachannel]]
+arch = "aarch64"
+git-tree-sha1 = "ce0555c135757286106baa76f5f16dc6883b53e6"
+os = "macos"
+
+    [[libdatachannel.download]]
+    sha256 = "3f4961abc359ffa06b61cb70887c6a6f034d744f7374ac315ca53b33574c5de2"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.aarch64-apple-darwin.tar.gz"
+[[libdatachannel]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2fa3fd9655fd5ab985972173fb407b8e0db80efc"
+libc = "glibc"
+os = "linux"
+
+    [[libdatachannel.download]]
+    sha256 = "c89a1740888b6c37508e6feb9badf40897b64916faf0367f2355bd3d97e570d7"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[libdatachannel]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e30c81713deee667bd67d1c7045beede30db71b0"
+libc = "glibc"
+os = "linux"
+
+    [[libdatachannel.download]]
+    sha256 = "9cc74f2b8c51f4214c0c72d4aa57910256df9942ea181f2fdaf5a9ea5f90488b"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[libdatachannel]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7ba2645802315b92abe215f247405b342ef23a87"
+libc = "musl"
+os = "linux"
+
+    [[libdatachannel.download]]
+    sha256 = "ce7c4d077a93fc8ea3196e6751b51c08c15be712fe58a148ac0b40c8c9cdfc05"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.aarch64-linux-musl-cxx03.tar.gz"
+[[libdatachannel]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "67c671aced294b9d9b413ed7e1558e9a6520f054"
+libc = "musl"
+os = "linux"
+
+    [[libdatachannel.download]]
+    sha256 = "66f180faaf7b4288a75b9c793c37c7a78e365b4320a2d78a34e90551ce1a77d4"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.aarch64-linux-musl-cxx11.tar.gz"
+[[libdatachannel]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "08a848eb0aa77d360af6ee1f77dcc8597ad83c81"
+libc = "glibc"
+os = "linux"
+
+    [[libdatachannel.download]]
+    sha256 = "a48383e461c3bc181a240c06c51d528c5adc82a2e4434cd43e592b1d34c2da8b"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[libdatachannel]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4c7ea8d69be0dc2cfef059d3e3d2c0aa9768d922"
+libc = "glibc"
+os = "linux"
+
+    [[libdatachannel.download]]
+    sha256 = "741bbec0e37d2e0bb374a873660689be842b57a5d8776f05ad443a635fbaa4b0"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[libdatachannel]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9c04ac21eacb3b85b7dfea23880f1824ec8c2251"
+libc = "musl"
+os = "linux"
+
+    [[libdatachannel.download]]
+    sha256 = "8d876724b27915f4676ec29d54637f63b964318ea534172e4518c0a4efbf3eff"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[libdatachannel]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "379541de15de906566db9e0e2110ca364bb9f9d9"
+libc = "musl"
+os = "linux"
+
+    [[libdatachannel.download]]
+    sha256 = "8940fe998c73892647db9f107b410c779976be1b02b60a0871082838dad490f0"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[libdatachannel]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4fe4eb9195b8a243fc5175f0b14e7bc7bbdbdcb3"
+libc = "glibc"
+os = "linux"
+
+    [[libdatachannel.download]]
+    sha256 = "6855389edd24b38a97a26d73e437dab7c1382e57a54588ca417378db98eb37e4"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[libdatachannel]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "57040e7fb3d8bfe99375ae9e05273d511a321a47"
+libc = "glibc"
+os = "linux"
+
+    [[libdatachannel.download]]
+    sha256 = "b94794586ff520e1ce7ff7f6276b69fe79e88f748496d6055997851b6d8719b3"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[libdatachannel]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9a1542c1a38f2d4f98edce4731cc42e3b4250bbb"
+libc = "musl"
+os = "linux"
+
+    [[libdatachannel.download]]
+    sha256 = "5a54f3430328cff55f742a73c397abb72ab351d41895e7854b6d578825628782"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[libdatachannel]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fb618bb79571ac428e3b4ab87c97bdf259de552d"
+libc = "musl"
+os = "linux"
+
+    [[libdatachannel.download]]
+    sha256 = "e7d5f2a6ceaa83f1bb1b6d29dba2edf14414277e2a1eab703d0163705dad1cae"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[libdatachannel]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "da5931e8bc0a66d2544c77247f1b9a3624b15232"
+libc = "glibc"
+os = "linux"
+
+    [[libdatachannel.download]]
+    sha256 = "f3799d5f0b3452a08106b82970b5a55ffa656af7afa2fc1652ca748240f96917"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.i686-linux-gnu-cxx03.tar.gz"
+[[libdatachannel]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e5750d66f17d27600c5dcea731cdc9b5a9bf0497"
+libc = "glibc"
+os = "linux"
+
+    [[libdatachannel.download]]
+    sha256 = "c07d3a113b199fa57ebc1e34b4d6d4264ab46e6c7fbcdfffa45bae290ae0f360"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.i686-linux-gnu-cxx11.tar.gz"
+[[libdatachannel]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "680198671b4c85947e39dc314c4d0b4fe9381bf3"
+libc = "musl"
+os = "linux"
+
+    [[libdatachannel.download]]
+    sha256 = "b673a3b7206b6e0a76a981be5a9c9c6cd89b35f6c4d2a11cc26df2d15c861c8d"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.i686-linux-musl-cxx03.tar.gz"
+[[libdatachannel]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f3e6edfcfc76dff1f47b2c4d21cc438943d98237"
+libc = "musl"
+os = "linux"
+
+    [[libdatachannel.download]]
+    sha256 = "f527d554274ed4fe39116eb1526b1dcc8b4c8f2c79cb180ba73ce62cce65506c"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.i686-linux-musl-cxx11.tar.gz"
+[[libdatachannel]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5249d77a0483acb9ece9c2d21e61dcd61dbb017e"
+os = "windows"
+
+    [[libdatachannel.download]]
+    sha256 = "7d4769ab5ffc46340268959f941c0c124f2d27dac183a7d13ea4222b217ff38f"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.i686-w64-mingw32-cxx03.tar.gz"
+[[libdatachannel]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f6cece01b2e6f782e9b1f86583e981785884b3b5"
+os = "windows"
+
+    [[libdatachannel.download]]
+    sha256 = "68c0e25cf36b62ce088f3cca53f75e8d99d217eabcfc8f07987ff56a1f4f5c32"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.i686-w64-mingw32-cxx11.tar.gz"
+[[libdatachannel]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cfbbced5620581932de1f68cadc209be1cd96e58"
+libc = "glibc"
+os = "linux"
+
+    [[libdatachannel.download]]
+    sha256 = "697a35e4ebd4bad3ea4553a40495012baa2dd87414d6930d0a19cc92348eeec4"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[libdatachannel]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "301e8c2b67d76e2bc675e2187e5530a152bf24ce"
+libc = "glibc"
+os = "linux"
+
+    [[libdatachannel.download]]
+    sha256 = "e8963aa72e25010b124bfd1189d92094258cceafe20535de962db87cb9dd572c"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[libdatachannel]]
+arch = "x86_64"
+git-tree-sha1 = "24af14fa9fbdece8e14927f1d03d2956fbc8417c"
+os = "macos"
+
+    [[libdatachannel.download]]
+    sha256 = "216c2b319382f6ace96f70ee121f92474731483f32d2e26bb7321ddd7c50d3a0"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.x86_64-apple-darwin.tar.gz"
+[[libdatachannel]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a9f2985a72539b03ea3730494e2462a456fdc2dc"
+libc = "glibc"
+os = "linux"
+
+    [[libdatachannel.download]]
+    sha256 = "b14f53d4317a1f4e4719855691ec5bdea48f12706276e089079c7e0aa857298b"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[libdatachannel]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e01d8149db976e8de004b74316849a39afd15a2b"
+libc = "glibc"
+os = "linux"
+
+    [[libdatachannel.download]]
+    sha256 = "a651fd64f2a111e3a26ea4627f823d825c390e8d8fb8859f5b54a0d012aa0815"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[libdatachannel]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c6f2fdbb513fdc2e186dbb7281afc258ae8272de"
+libc = "musl"
+os = "linux"
+
+    [[libdatachannel.download]]
+    sha256 = "e79bbe53a88888b7cbb2a3c5d3924219f2ddae524f2c534f8a0f550bf26fb255"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.x86_64-linux-musl-cxx03.tar.gz"
+[[libdatachannel]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "499fe84f41d68e25e4fc32309dd1cf295a21438d"
+libc = "musl"
+os = "linux"
+
+    [[libdatachannel.download]]
+    sha256 = "07b84b294f5554eacb00f3cd5b252812f4fe99f54e7f236b4031476e48ebc26e"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.x86_64-linux-musl-cxx11.tar.gz"
+[[libdatachannel]]
+arch = "x86_64"
+git-tree-sha1 = "58690d4c009ed979f0a0251ee76b4d26f9e17acd"
+os = "freebsd"
+
+    [[libdatachannel.download]]
+    sha256 = "53f24cba246614764b29f9a47adcdf078c45b4d2a8595f2a6a2eb5ec1045839b"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.x86_64-unknown-freebsd.tar.gz"
+[[libdatachannel]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cb8acda2af6a0bc7db1bd8361347fb827658025a"
+os = "windows"
+
+    [[libdatachannel.download]]
+    sha256 = "7d7859afbd005bd7bc84aba02c098892b63568933a24e21d7d9f03eb6ff850f1"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[libdatachannel]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6410696f5a4b1feac2f62c30520e27247dfd7fa5"
+os = "windows"
+
+    [[libdatachannel.download]]
+    sha256 = "760d67e42ec526e529568dec84a769280fde13a71d40554f1c14eef972d17943"
+    url = "https://github.com/JuliaBinaryWrappers/libdatachannel_jll.jl/releases/download/libdatachannel-v0.20.2+0/libdatachannel.v0.20.2.x86_64-w64-mingw32-cxx11.tar.gz"
